@@ -9,7 +9,7 @@
 .content {
     /* height: 100px; */
     width: 100%;
-    background-color: #F2E3DB;
+    /* background-color: #F2E3DB; */
     display: flex;
     flex-direction: column;
     justify-content: center;
